@@ -1,6 +1,6 @@
 # Machine à compliments :
 
-Félicitations ! Vous êtes sur le point de créer une incroyable "Machine à compliments" en TypeScript. Cette machine magique est capable de donner des compliments personnalisés à différentes personnes en fonction de leur type (par exemple, ami, collègue, membre de la famille, etc.), mais aussi en fonction de leur caractère (par exemple, gentil, intelligent, drôle, etc.). La machine est espiègle et utilise des types génériques pour fonctionner, vous permettant de choisir parmi trois types de données : `string`, `number` ou `boolean`. Pouvez-vous relever le défi et créer cette machine incroyable ?
+Félicitations ! Vous êtes sur le point de créer une incroyable "Machine à compliments" en TypeScript. Cette machine magique est capable de donner des compliments personnalisés à différentes personnes en fonction de leur type (par exemple, ami, collègue, membre de la famille, etc.), mais aussi en fonction de leur caractère (par exemple, gentil, intelligent, drôle, etc.). La machine est espiègle et utilise des types génériques pour fonctionner, vous permettant de choisir parmi trois types de données : `string`, `number` ou `boolean`. Pouvez-vous relever le défi et créer cette machine incroyable ?np
 
 # Etapes
 
@@ -21,6 +21,5 @@ Félicitations ! Vous êtes sur le point de créer une incroyable "Machine à co
 8. Vous pouvez créer différentes instances de `ComplimentMachine` pour chaque type de personne et chaque caractère.
 
 9. Enfin, appelez la méthode `compliment` avec différents noms, âges ou caractères pour voir les compliments personnalisés apparaître !
-
 
 Amusez-vous bien en créant votre "Machine à compliments" magique ! Faites preuve de créativité pour personnaliser les compliments en fonction du type de personne et du caractère. La magie des types génériques vous permettra de rendre votre machine flexible et réutilisable pour différentes personnes et caractères. Bonne chance et amusez-vous ! 😄
